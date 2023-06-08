@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayGondaliya
 - 👀 I’m currently looking for Machine Learning or Data Science job
 - 🌱 I’m currently learning NLP
-- 💞️ I’m interested in Data Science and Machine learning  
+- 💞️ I’m interested in Data Science and Machine learning and computer vision 
 - 📫 How to reach me https://www.linkedin.com/in/akshay-gondaliya-68b8b7191/
 
 <!---
