@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkshayGondaliya
-- Having experience of 17 month as a Junior AI Developer
+- Having experience of 2 year as a Junior AI Developer
 - 👀 I’m currently looking for computer vision and AI domain job
 - 🌱 I’m currently learning NLP
-- 💞️ I’m interested in Data Science and Machine learning and computer vision 
+- 💞️ I’m interested in Data Science and Computer vision and machine learning
 - 📫 How to reach me https://www.linkedin.com/in/akshay-gondaliya-68b8b7191/
 
 <!---
